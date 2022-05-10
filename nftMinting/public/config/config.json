@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xF9341Dc7e9F0a06e3Fa87A8B5A6a61097eFF458A",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xf9341dc7e9f0a06e3fa87a8b5a6a61097eff458a",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "penguin1",
+  "SYMBOL": "P1",
+  "MAX_SUPPLY": 40,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/penguin1",
+  "SHOW_BACKGROUND": true
+}
